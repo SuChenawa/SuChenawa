@@ -1,7 +1,7 @@
 ## Hi there 👋  
-你好 这里是夙宸，2020级带专生一枚  
+你好 这里是夙宸  
 
-主要使用语言：Java,C#,HTML+css,以及一点点python  
+主要使用语言：Dart,Java,C#,HTML+css,以及一点点python  
 
 
 ## GitHub 统计信息
